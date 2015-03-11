@@ -6,5 +6,6 @@ public class jouer : MonoBehaviour {
 	public void changescene(int scene)
 	{
 		Application.LoadLevel(scene);
+		Screen.showCursor = false;
 	}
 }
