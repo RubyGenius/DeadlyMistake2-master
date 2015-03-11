@@ -50,6 +50,10 @@
      <Compile Include="Assets\MenuPause.cs" />
      <Compile Include="Assets\RESTART_GRID.cs" />
      <Compile Include="Assets\TP_Dalle_tospot.cs" />
+<<<<<<< HEAD
+=======
+     <Compile Include="Assets\echap.cs" />
+>>>>>>> origin/master
      <Compile Include="Assets\jouer.cs" />
      <Compile Include="Assets\quitter.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />

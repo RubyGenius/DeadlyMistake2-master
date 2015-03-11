@@ -18,11 +18,16 @@ Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_
 Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+<<<<<<< HEAD
 - Completed reload, in  0.046 seconds
+=======
+- Completed reload, in  0.045 seconds
+>>>>>>> origin/master
 desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.Core.dll (this message is harmless)
+<<<<<<< HEAD
 Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.dll (this message is harmless)
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
 UnloadTime: 2.619736 ms
@@ -30,5 +35,18 @@ Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty seri
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 561.
 Total: 0.882300 ms (FindLiveObjects: 0.015394 ms CreateObjectMapping: 0.007546 ms MarkObjects: 0.106250 ms  DeleteObjects: 0.248118 ms)
+=======
+Script error (echap): Update() can not take parameters.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 2.438627 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 562.
+Total: 0.719001 ms (FindLiveObjects: 0.026562 ms CreateObjectMapping: 0.016601 ms MarkObjects: 0.113494 ms  DeleteObjects: 0.264720 ms)
+>>>>>>> origin/master
 
 Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Boo.Lang.dll (this message is harmless)
