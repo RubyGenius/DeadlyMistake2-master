@@ -1,0 +1,12 @@
+F:\DEADLY_MISTAKES\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\DEADLY_MISTAKES\Temp\bin\Debug\UnityEditor.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\UnityEngine.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\UnityEngine.UI.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\Mono.Cecil.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\nunit.framework.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\Unity.DataContract.dll
+F:\DEADLY_MISTAKES\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\DEADLY_MISTAKES\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\DEADLY_MISTAKES\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\DEADLY_MISTAKES\obj\Debug\Assembly-CSharp-firstpass.pdb
