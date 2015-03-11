@@ -2,37 +2,37 @@ Initialize engine version: 4.6.1f1 (d1db7a1b5196)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GTX 970M    (ID=0x13d8)
-    Vendor:   NVIDIA
-    VRAM:     3072 MB
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x162)
+    Vendor:   Intel
+    VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.053 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.dll (this message is harmless)
-WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
-The referenced script on this Behaviour is missing!
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.Core.dll (this message is harmless)
+Script error (echap): Update() can not take parameters.
  
-(Filename:  Line: 1788)
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoScriptCache.cpp Line: 376)
 
-UnloadTime: 2.728491 ms
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+UnloadTime: 2.438627 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 558.
-Total: 0.926603 ms (FindLiveObjects: 0.023811 ms CreateObjectMapping: 0.010674 ms MarkObjects: 0.125627 ms  DeleteObjects: 0.354301 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 562.
+Total: 0.719001 ms (FindLiveObjects: 0.026562 ms CreateObjectMapping: 0.016601 ms MarkObjects: 0.113494 ms  DeleteObjects: 0.264720 ms)
 
-Platform assembly: C:\Users\Nachü\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\epita\Documents\GitHub\DeadlyMistake2-master\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Boo.Lang.dll (this message is harmless)
